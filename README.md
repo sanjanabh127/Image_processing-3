@@ -43,5 +43,4 @@ Display original vs cartoonized image side by side
 Clone the repository:
 
 git clone https://github.com/sanjanabh127/Image_processing-3.git
-cd cartoonify-images
 
